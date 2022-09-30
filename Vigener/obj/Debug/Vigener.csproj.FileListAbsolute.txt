@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Vigener\Vigener\bin\Debug\Vigener.exe.config
+C:\Users\User\source\repos\Vigener\Vigener\bin\Debug\Vigener.exe
+C:\Users\User\source\repos\Vigener\Vigener\bin\Debug\Vigener.pdb
+C:\Users\User\source\repos\Vigener\Vigener\obj\Debug\Vigener.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Vigener\Vigener\obj\Debug\Vigener.Form1.resources
+C:\Users\User\source\repos\Vigener\Vigener\obj\Debug\Vigener.Properties.Resources.resources
+C:\Users\User\source\repos\Vigener\Vigener\obj\Debug\Vigener.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Vigener\Vigener\obj\Debug\Vigener.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Vigener\Vigener\obj\Debug\Vigener.exe
+C:\Users\User\source\repos\Vigener\Vigener\obj\Debug\Vigener.pdb
